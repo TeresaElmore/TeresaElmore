@@ -8,4 +8,4 @@
 1. <ins>teresa.elmore@d128.org</ins>
 1. > I'm a career changer. I worked in tech for 13 years before becoming a high school teacher.
 
-[logo]: http://github.com/TeresaElmore/TeresaElmore/blob/main/assets/telmore.jpg "Logo Title Text 2"
+![alt text] (assets/telmore.jpg "Logo Title Text 2")
